@@ -1,2 +1,1 @@
-# salimsQrScanner
-hello
+# QR-Code-Generate
